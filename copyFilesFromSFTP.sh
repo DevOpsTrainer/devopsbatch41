@@ -1,3 +1,4 @@
+Remote server connection script
 ftp_host=$1
 ftp_user=$2
 password=$3
